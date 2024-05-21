@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Pedro Perez",
+      "email": "pedro@gmail.com",
+      "password": "jeremy12345"
+    },
+    {
+      "id": "2",
+      "name": "María García",
+      "email": "maria@gmail.com",
+      "password": "maria12345"
+    },
+    {
+      "id": "7f63",
+      "name": "Marzzio Chicana",
+      "email": "marzzio@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "pots": [
+    {
+      "id": "1",
+      "name": "Maceta 1",
+      "imageUrl": "../../../assets/pot/maceta_1.png",
+      "temperature": "25°C",
+      "humidity": "60%",
+      "sunshine": "Alta"
+    },
+    {
+      "id": "2",
+      "name": "Maceta 2",
+      "imageUrl": "../../../assets/pot/maceta_2.png",
+      "temperature": "20°C",
+      "humidity": "70%",
+      "sunshine": "Moderada"
+    },
+    {
+      "id": "3",
+      "name": "Maceta 3",
+      "imageUrl": "../../../assets/pot/maceta_3.png",
+      "temperature": "20°C",
+      "humidity": "70%",
+      "sunshine": "Moderada"
+    }
+  ]
+}
